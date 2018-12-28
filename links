@@ -1,0 +1,25 @@
+https://unix.stackexchange.com/questions/5915/difference-between-bin-and-usr-bin
+http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
+
+http://www.tocadotux.com.br/2018/02/entendendo-divisao-do-bin-sbin-usrbin-usrsbin.html?m=1
+
+https://www.gnu.org/software/bash
+
+https://github.com/landley/toybox
+
+http://landley.net/toybox
+
+https://busybox.net/
+
+https://github.com/odb/official-bash-logo
+
+
+Lista de pacotes instalados ( dpkg --get-selections > Lista-Pacotes.txt )
+https://www.vivaolinux.com.br/dica/Listando-pacotes-instalados-com-dpkg
+
+Lista de arquivos de um pacote instalado ( ex: dpkg-query -L coreutils )
+https://askubuntu.com/questions/32507/how-do-i-get-a-list-of-installed-files-from-a-package
+
+Lista de pacotes essenciais
+https://askubuntu.com/questions/13587/where-is-coreutils-in-ubuntu-minimal/13591#13591
+https://askubuntu.com/questions/750876/how-to-replace-gnu-core-utilities-with-busybox
